@@ -1,1 +1,2 @@
 # Grecery-Checkout-Simulation
+This is a grocery checkout simulation which accepts number of checkout Line as an input with each checkout Line having a number of checkpoint as inputted by user. The program simulates the arrival and check out of a buyer within a specific number of seconds/minutes. This is great to deal with if we are develpoing a greocery store or a bank ATM location. This can tell us the number of checkpoint for service that is best and will avoid too many long queues
